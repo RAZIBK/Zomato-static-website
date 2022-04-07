@@ -1,0 +1,786 @@
+.main{
+width: 100%;
+height: auto;
+}
+
+.header{
+    width: 100%;
+    height: 421px;
+    background-image: url(zomato\ img1.jpg);
+    background-size: cover;
+}
+body{
+    margin: 0px;
+}
+head{
+    margin: 0px;
+}
+.nav-bar{
+    padding-top: 17px;
+    padding-bottom: 17px;
+    height: 72px;
+    width: 1100px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+.get-app{
+    width: 97px;
+    height: 72px;
+    display: inline;
+}
+.phone-img{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+   display: inline;
+   
+}
+h6{
+    margin-top:10px;
+    font-family: Okra, Helvetica, sans-serif;
+    Font-size: 15px;
+    Font-weight: 500;
+    color: rgb(255, 255, 255);
+    display: inline;
+}
+.list{
+    height:72px;
+    width:335px;
+    display: inline;
+    padding-left:666px;
+}
+.nav-ul{
+    display: inline;
+}
+.nav-list{
+    list-style-type: none;
+    display: inline;
+    font-family:Okra, Helvetica, sans-serif;
+    Font-size: 18px;
+    Font-weight: 290;
+    Line-height: 27px;
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+    Line-height: 27px;
+}
+.inner{
+    height: 222px;
+    width: 100%;
+ position: 99px;
+}
+.name{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+  
+
+}
+.imageofzomato{
+    width: 300px;
+    height: 60px ;
+    
+
+}
+.Discover-the{
+    width: 797px;
+    height: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    margin-top: 2.2rem;
+    text-align: center;
+   
+}
+h2{
+    font-family: Okra, Helvetica, sans-serif;
+    font-size:  2.4rem;
+    Font-weight: 400;
+    Line-height: 43.2px;
+     color: rgb(255, 255, 255);
+   
+    display: inline;
+   
+}
+h1{
+    display: inline;
+    font-family: Okra, Helvetica, sans-serif;
+    font-size:2.41rem;
+    Font-weight: 500;
+    Line-height:4px;
+  color: rgb(255, 255, 255);
+ 
+
+}
+.topnav {
+    
+    background-color: white;
+    height: 54px;
+    width: 776px;
+    border-radius:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    display: flex;
+  }
+ 
+.location-dot{
+    width: 16.4px;
+    height: 20px;
+  
+    margin-top: 15px;
+    margin-left: 10px;
+}
+input:focus,
+select:focus,
+option:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+.place{
+    height: 53px;
+    width: 243.5px;
+    border-color: white; 
+    Font-size: 14px;
+    font-size: 400;
+    padding-left: 5px;
+    margin-bottom: 0px;   
+}
+  .select{
+      height: 54px;
+      width: 220px;
+    display: flex;
+  
+   
+  }
+  h4{
+    color:rgb(155 139 137);
+    margin-top: 11px;
+    font-size: 23px;
+  }
+ .serch-img{
+     height: 54px;
+     width: 54px;
+ }
+ .serch-png{
+    width: 21px;
+    height: 21px;
+    margin: 17px;
+ }
+ .serch-box{
+     width: 482.43px;
+     height: 54px;
+     font-family: Okra, Helvetica, sans-serif;
+     font-size: 14px;
+ }
+ 
+ input{
+     border: 0;
+ }
+ .serch{
+    width: 465.43px;
+    height: 54px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    border-color: white;
+ }
+
+ .ordre-onlne{
+     height: 241px;
+     width: 550px;
+     margin-top: 42px;
+     margin-left: 209px;
+     border-radius: 15px;
+    border-style:solid ; 
+    border-width:.1px;
+    border-color: rgb(163, 160, 160);
+ }
+ .onlne{
+     width: 550px;
+     height: 157px;
+     border-top-left-radius: 15px;
+     border-top-right-radius:15px;
+ }
+.order-text{
+    margin-left: 20px;
+    margin-top: 8px;
+    font-family: Okra, Helvetica, sans-serif;
+    Font-size: 20px;
+    Font-weight: 500;
+    color: rgb(54, 54, 54);
+    margin-bottom: 0;
+}
+.stay-home{
+    font-family: Okra, Helvetica, sans-serif;
+    Font-size: 16px;
+    Font-weight: 400;
+   color: rgb(79, 79, 79);
+   margin-left: 20px;
+}
+.Collections-hd{
+    width: 1100px;
+    height: 43px;
+    margin-left: 290px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Collections-test{
+font-family: Okra, Helvetica, sans-serif;
+Font-size: 36px;
+Font-weight: 500;
+Line-height: 43.2px;
+color: rgb(28, 28, 28);
+}
+.collection-sub-hd{
+    height: 25px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+ 
+
+}
+  .collection-sub{
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 18px;
+    Font-weight:300;
+    color:rgb(54, 54, 54);
+    display: inline;
+    
+    
+  }
+  .sub-titil{
+    font-family: Okra, Helvetica, sans-serif;
+
+    font-size:18px;
+    
+    Font-weight: 300;
+    
+    Line-height: 16px;
+    
+    color: #ff7e8b;
+    display: inline;
+  }
+  .arrow{
+      width: 10px;
+      height: 15px;
+      display: inline;
+      margin-top: 5px;
+      
+    }
+    h3{
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+    .collections-img{
+        width: 1100px;
+        height:auto;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        
+     
+    }
+
+    
+    .Trending-This-Week-img{
+
+        height: 320px;
+        width: 267.5px;
+        background-image: url(Trending-This-Week-img.jpg);
+        background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        border-radius:10px ;
+        
+        
+       
+    }
+    .tr-text{
+    height: 56.8px;
+   
+      padding-top: 263px;
+      padding-left: 16px;
+      background: linear-gradient(transparent,#272525);
+
+
+    }
+    .Trending-This-Week-text{
+
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 18px;
+        Font-weight: 300;
+        Line-height: 27px;
+        color: rgb(255,255,255);  
+    
+    }
+    .arrow-png{
+        width: 8px;
+        height: 8px;
+    }
+    .Great-Breackfasts-img{
+        height: 320px;
+        width: 267.5px;
+        background-image: url(great-breakfast.jpg);
+        background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        border-radius:10px ;
+
+    }
+    .Veggie-Friendly-img{
+        height: 320px;
+        width: 267.5px;
+        background-image: url(veggin-frien.jpg);
+        background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        border-radius:10px ;
+        
+      
+
+    }
+    .Pocket-Friendly-img{
+        height: 320px;
+        width: 267.5px;
+        background-image: url(pocket-frien.jpg);
+        background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        border-radius:10px ;
+
+    }
+   .location{
+       height: 184px;
+       width: 1100px;
+       margin-left: auto;
+       margin-right: auto;
+   }
+   .popular-locaton{
+       height: 43px;
+       width: 1100px;
+       display: flex;
+       margin-top: 111px;
+   }
+   .location-text{
+      font-family: Okra, Helvetica, sans-serif;
+        Font-size: 36px;
+        Font-weight: 400;
+        Line-height: 43.2px;
+        color: rgb(54, 54, 54);
+        width: 713px;
+        text-align: end;
+   }
+   .malppuram-text{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 36px;
+        Font-weight: 500;
+        Line-height: 43.2px;
+        color: rgb(54, 54, 54);
+        width: 387px;
+        margin: 0;
+        margin-left: 8px;
+   }
+    .butten{
+        background-color: white;
+        border-color: rgb(245, 240, 240);
+        height: 66px;
+        width: 336px;
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 20px;
+        Font-weight: 400;
+        Line-height: 24px;
+        color: rgb(28, 28, 28);
+        border-radius: 10px;
+        margin-top: 39px;
+
+   }
+   .arrow2{
+       height: 13px;
+       width: 10px;
+   }
+   .app-download-section{
+       height: 480px;
+       width: 100%;
+       background-color: rgb(255, 251, 247);
+     margin-top: 120px;
+   
+   }
+   .Get-the-app-section{
+       width: 740px;
+       height: 450px;
+       margin-left: auto;
+       margin-right: auto;
+       display: flex;
+   }
+   .app-img{
+    width: 250px;
+    height: 450px;
+   
+    }
+   .app{
+       width: 180px;
+       height: 269px;
+       border-radius: 25px;
+       margin-top: 112px;
+       margin-left: 37px;
+    }
+    .get-app-text-section{
+        width: 490px;
+        height: 450px;
+        padding-top: 54px;
+        
+       
+
+    }
+    .get-app-text{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 44px;
+        Font-weight: 500;
+        Line-height: 56px;
+        color: rgb(28, 28, 28);
+        padding-left: 15px;
+    }
+    .get-app-sub-hd{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 16px;
+        Font-weight: 300;
+        Line-height: 32px;
+        color: rgb(54, 54, 54);
+        padding-left: 15px;
+     
+    }
+    input[type=radio] {
+        width: 20px;
+        height: 18px;
+    }
+    .radio{
+        padding-left: 15px;
+    }
+    .Email-section{
+        width: 450px;
+        height: 63px;
+        margin-top: 10px;
+        margin-left: 15px;
+        display: flex;
+      
+    }
+    .Email-text{
+        
+        width: 30px;
+        height: 30px;
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 16px;
+        Font-weight: 300;
+        Line-height: 19.2px;
+        color: rgb(28, 28, 28);
+    }
+    .box{
+        width: 271px;
+        height: 48px;
+        padding-left: 13px;
+        border-radius: 7px;
+    }
+   
+    .Email-box{
+        width: 292px;
+        height: 48px;
+       
+       
+       
+    }
+    .Email{
+        border-style: solid;
+        border-color:rgb(0, 0, 0);
+        border-width: thin;
+        border-radius: 7px;
+    }
+    .Share-App-butten{
+        width: 150px;
+        height: 48px;
+        border-radius: 10px;
+        background-color: rgb(224, 53, 70);
+        margin-left: 8px;
+        border-color:rgb(224, 53, 70) ;
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 16px;
+        Font-weight: 300;
+        color: rgb(255, 255, 255);
+    }
+    .Download-app-from-text{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 14px;
+        Font-weight: 300;
+        Line-height: 21px;
+        color: rgb(156, 156, 156);
+        margin-left: 15px;
+        margin-top: 24px;
+    }
+    .play-store-image-section{
+        height: 40px;
+        width: 450px;
+        display: flex;
+        margin-top: 15px;
+    }
+    .play-store-img{
+        height: 40px;
+        width: 137px;
+        border-radius: 4px;
+        padding-right: 20px;
+    }
+    .Text-section{
+        width: 1100px;
+        height: 1325px;
+        padding-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .Explore-other-hd{
+        height: 40px;
+        margin-bottom: 30px;
+    }
+    .Explore-other-text{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 30px;
+        Font-weight: 500;
+        Line-height: 40px;
+        color: rgb(54, 54, 54);
+      
+    }
+    .content-section{
+        height: 163px;
+
+    }
+    .Popular-cuisines-near-me-text{
+        font-family:Okra, Helvetica, sans-serif;
+        Font-size: 24px;
+        Font-weight: 500;
+        Line-height: 32px;
+        color: rgb(54, 54, 54);
+        padding-top: 30px;
+        
+    }
+    .content-list{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 16px;
+        Font-weight: 300;
+        Line-height: 28.8px;
+        color: rgb(130, 130, 130);
+        display: inline;
+        line-height: 1.8;
+      
+    }
+    span{
+        font-size: 18px;
+        font-weight: bold;
+        padding-left: 3.5px;
+        padding-right: 3.5px;
+        color: rgb(130, 130, 130);
+    }
+    .content-ul{
+        padding: 0;
+    }
+    .Popular-restaurant-section{
+        height: 105.6px;
+        margin-top: 100px;
+    }
+    .Popular-restaurant-text{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 24px;
+        Font-weight: 500;
+        Line-height: 32px;
+        color: rgb(54, 54, 54);
+    }
+    .Cities-We-Deliver-To-section{
+        width: 1100px;
+        height: 586.4px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+    }
+    .Cities-We-Deliver-To-text{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 24px;
+        Font-weight: 500;
+        Line-height: 32px;
+        color: rgb(54, 54, 54)
+    }
+    #places-table {
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(130, 130, 130);
+        Font-size: 16px;
+        Font-weight: 500;
+        width: 100%;
+        padding-left: 0;
+        margin-top: 10px;
+      }
+      
+      #places-table td, #places-table th {
+         
+          padding-top: 8px;
+          padding-bottom: 8px;
+          padding-right: 8px;
+       
+      }
+      #places-tableth {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        color: white;
+      }
+      .See-more-txt{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(0, 0, 0);
+        Font-size: 16px;
+        Font-weight: 500;
+      }
+      .footer-section{
+          background-color: rgb(248, 248, 248);
+      }
+      .footer-inner-section{
+          height: 437.41px;
+          width: 1100px;
+          margin-left: auto;
+          margin-right: auto;
+      }
+      .footer-hed-text{
+        width: 1100px;
+        height: 38.1px;
+      }
+      .footer-hed{
+          width: 1100px;
+          height: 38.1px;
+          padding-top:40px;
+          display: flex;
+          justify-content: space-between;
+      }
+      .footer-hed-text{
+          height: 28px;
+          width: 132px;
+      }
+      .footer-hed-contry-button{
+          height: 38.1px;
+          width: 252.88px;
+      }
+      .flag{
+          width: 10px;
+          height: 10px;
+      }
+      .india-flag{
+          width: 22px;
+          height: 14px;
+      }
+      .contry-button{
+          width: 109.88px;
+          height: 38.9px;
+      }
+      .india-text{
+        font-family: Arial, Helvetica, sans-serif;
+        Font-size: 18px;
+        Font-weight: 400;
+        Line-height: 20px;
+        color: rgb(28, 28, 28);
+      }
+      .language-butten{
+          margin-left: 10px;
+          height: 38px;
+          width: 123.11px;
+          
+      }
+      .globe-img{
+         height:19px;
+          width: 20px;
+          padding-right: 8px;
+      }
+
+    .footer-table-section{
+       width: 1027.6px;
+       height: 168px;
+       display: flex;
+       margin-top: 40px;
+ 
+    }
+    .table-section{
+
+    
+        height: 157px;
+        width: 870px;
+    }
+    #footer-table{
+         font-family: Okra, Helvetica, sans-serif;
+         Font-size: 14px;
+         Font-weight: 300;
+         Line-height: 21px;
+         color: rgb(105, 105, 105);
+         width: 870px;
+       
+      }
+      #footer-table td, #footer-table th {
+        padding-top: 3px;
+        padding-bottom: 3px;
+      } 
+      #footer-table th {
+        font-family:Okra,Helvetica,sans-serif;
+        Font-size:14px;
+        Font-weight: 500;
+        Line-height: 21px;
+        color: rgb(0, 0, 0);
+        text-align: left;
+      }
+      .SOCIAL-LINKS-secion{
+          width: 201.6px;
+          height: 168px;
+      }
+      .SOCIAL-LINKS-text{
+        font-family:Okra,Helvetica,sans-serif;;
+        Font-size:14px;
+        Font-weight: 500;
+        Line-height: 21px;
+        color: rgb(0, 0, 0);
+        text-align: left;
+      }
+      .social-png{
+          width: 201px;
+          height: 22px;
+          margin-top: 10px;
+      }
+      .linkedin-png{
+          height: 21px;
+          width: 21px;
+      }
+      .app-store-img-section{
+          height: 92px;
+          width: 201px;
+          margin-top: 20px;
+      }
+      .app-store-img{
+          height: 40px;
+          width: 137px;
+          padding-bottom: 10px;
+      }
+      .border-line{
+          height: 1px;
+          width: 1100px;
+          background-color: rgb(207, 207, 207);
+          margin-top: 50px;
+      }
+      .copy-rights-section{
+          margin-top: 23px;
+
+      }
+      p{
+        font-family: Okra, Helvetica, sans-serif;
+        Font-size: 13px;
+        Font-weight: 300;
+        Line-height: 17px;
+        color: rgb(158, 150, 150);
+      }
+   
